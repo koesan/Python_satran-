@@ -4,7 +4,7 @@ Python ile yazılmış satranç oyunu.
 
 ***
 
-#gereksinimler
+# Gereksinimler
 
 pygame = 2.6.0
 
